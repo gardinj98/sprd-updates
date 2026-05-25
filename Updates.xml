@@ -6,15 +6,15 @@
   <Name>com.prcdproductions.vgcspreader</Name>
   <DisplayName>VGCSpreader</DisplayName>
   <Description>Applicazione VGCSpreader - PRCD Productions</Description>
-  <Version>2.0.1</Version>
+  <Version>2.0.2</Version>
   <ReleaseDate>2026-05-22</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="18999363" OS="Any" UncompressedSize="69699930"/>
+  <UpdateFile CompressedSize="18999586" OS="Any" UncompressedSize="69699930"/>
   <DownloadableArchives>db.7z,generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>4c7f960a46aba8926b63f2fc16bf5a004d5cff52</SHA1>
+  <SHA1>23208633ba967009e92c51c62180f297577e1f50</SHA1>
  </PackageUpdate>
- <SHA1>f9082129a68537ac8822d0c4fd018020c8e61c69</SHA1>
- <MetadataName>2026-05-22-1751_meta.7z</MetadataName>
+ <SHA1>d8a24884cca5660d550294d527a9027b893f02ae</SHA1>
+ <MetadataName>2026-05-25-1729_meta.7z</MetadataName>
 </Updates>
