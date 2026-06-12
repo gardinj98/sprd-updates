@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.prcdproductions.vgcspreader</Name>
+  <DisplayName>VGCSpreader</DisplayName>
+  <Description>Applicazione VGCSpreader - PRCD Productions</Description>
+  <Version>2.0.4</Version>
+  <ReleaseDate>2026-06-12</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="18999576" OS="Any" UncompressedSize="69699928"/>
+  <DownloadableArchives>db.7z,generic.7z,iconengines.7z,imageformats.7z,networkinformation.7z,platforms.7z,styles.7z,tls.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>bc891aec10f12905b5ede64c225bb07896590231</SHA1>
+ </PackageUpdate>
+ <SHA1>1e159d44e80fe6136ccf1ea551a9cf2dfc7ec0a3</SHA1>
+ <MetadataName>2026-06-12-1605_meta.7z</MetadataName>
+</Updates>
